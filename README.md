@@ -15,10 +15,10 @@
   <br/>
 
   <p align="center">
-    <a href="https://linkedin.com/in/USERNAME_LINKEDIN_ANDA" target="_blank">
+    <a href="https://linkedin.com/in/laygenda" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:EMAIL_ANDA@gmail.com">
+    <a href="mailto:laygenda102@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
     <a href="https://kaggle.com/USERNAME_KAGGLE_ANDA" target="_blank">
@@ -67,17 +67,17 @@ Ringkasan aktiviatas coding dan bahasa pemrograman saya.
 
 <div align="center">
   <a href="https://github.com/USERNAME_GITHUB_ANDA">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_ANDA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laygenda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
   </a>
   
   <a href="https://github.com/USERNAME_GITHUB_ANDA">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_ANDA&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laygenda&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs"/>
   </a>
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB_ANDA&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laygenda&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
