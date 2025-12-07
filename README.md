@@ -66,11 +66,11 @@ Sebagai seorang praktisi data, saya menggunakan berbagai alat untuk mengubah dat
 Ringkasan aktiviatas coding dan bahasa pemrograman saya.
 
 <div align="center">
-  <a href="https://github.com/USERNAME_GITHUB_ANDA">
+  <a href="https://github.com/laygenda">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laygenda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
   </a>
   
-  <a href="https://github.com/USERNAME_GITHUB_ANDA">
+  <a href="https://github.com/laygenda">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laygenda&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs"/>
   </a>
 </div>
