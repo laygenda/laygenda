@@ -5,7 +5,7 @@
   <br/>
 
   <p align="center">
-    <b>Data Analyst</b> | <b>Machine Learning Enthusiast</b> | <b>Problem Solver</b>
+    <b> Data & AI Enthusiast</b>
   </p>
   
   <p align="center">
